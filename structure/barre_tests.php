@@ -10,7 +10,7 @@
        
         <li class="class1"><a href = "#">Autres Tests</a></li>
         <li class="class1"><a href = "#">Tests similaires</a></li>
-        <li class="class1"><a href = "http://localhost/Site_final/Articles/submitReview.php">Write a review</a></li>
+        <li class="class1"><a href = "http://localhost/Site_final/a/submitReview.php">Write a review</a></li>
         <li class="class1"><a href = "#"></a></li>
         <li class="class1"><a href = "#"></a></li>
         <li class="class1"><a href = "#"></a></li>

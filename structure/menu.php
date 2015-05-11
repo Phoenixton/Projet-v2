@@ -1,10 +1,15 @@
-
+<div class="col-1">
+    <div class="content">
+    
+    <p>some text...</p> 
+    </div>
+    </div>
 
 <div class="col-boxes"> <p></p> </div>
     <nav class="essai">
 
     <ul class="essai2">
-        <li><a href="#"> <strong>Accueil</strong> </a></li>
+        <li><a href="/Site_final/Accueil.php"> <strong>Accueil</strong> </a></li>
         <li><a href="#"><strong>Reviews</strong></a>
             <ul>
                 <li><a href="#"><strong>Nouveaux tests</strong></a></li>
@@ -30,5 +35,5 @@
      </ul>
      </nav>
     <div class="inscript_page">
-    	<a href="http://localhost/Site_final/essaiInscription.php"> S'inscrire </a> <a href="http://localhost/Site_final/essaiConnexion.php"> Connexion </a>
+    	<a href="/Site_final/essaiInscription.php"> S'inscrire </a> <a href="/Site_final/essaiConnexion.php"> Connexion </a>
     </div>

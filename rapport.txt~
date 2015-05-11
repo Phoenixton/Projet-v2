@@ -1,0 +1,13 @@
+Rapport : 
+
+    The project helped to improve our understanding of the programming languages used and their application in web design.
+
+    We separated the tasks : I handled the CSS/HTML and the PHP functions used to create new pages, such as the ones desgined to incorporate the menus, while Noa created and used the database and took care of the others PHP functions. 
+    
+    We chose to do a gaming website, where people could log in and create their reviews/news. It is a firm believe of mine that such a website cannot exist without trust. As such, I have decided to let people be able to use <balises> in the text they create, for more flexibility. That way, they can organise their text the way they want to. I am aware of the flaws of such a system. We, the administrator, can suppress a review/news if it seems shocking or inapropriate. But without a certain ammount of trust, you can't do anything.
+    Any user willing to create a post is able to choose their background image, leading to the same problem as before, yes, but allowing people to also create great stuff instead of some bland review with -always- the same background.
+    
+    As for the CSS, I decided, because I faced quite a lot of trouble to organise the text/menus, to create a grid system and to use <div class="col-X"> with X being the size of the column I want and <div class="row">, creating a new row, to counter this problem. This worked better than I even expected, as I've been able to use it not only for box-mapping, but also to organize the inside of the boxes. 
+    The boxes are almost all rounded on the edge, giving a non-aggressing vibe to the pages. 
+    
+    Some functions were created to handle the creation of comments boxes in a comic bubble style and the text box used to input them. 

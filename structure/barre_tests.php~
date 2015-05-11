@@ -1,9 +1,5 @@
  <div class="row">
-    <?php
-        
-        include('search.html');
-        
-        ?>
+    
         <div class="col-1">
         <br> <!-- pour aligner -->
        

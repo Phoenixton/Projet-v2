@@ -13,8 +13,7 @@
     <style>
     
     body {
-    background-color: white;
-    
+    background-image: url(http://images8.alphacoders.com/510/510491.jpg);
     }
     #essai {
     margin: 15px;
@@ -43,25 +42,35 @@
     </div>
     </div>
     <?php
-    include('structure/menu.php');
-    include('structure/fonctions.php'); ?>
+    include('structure/menu.php'); ?>
+    <br>
+    <br>
+    <?php
+    include('structure/barre_tests.php');
+    include('structure/fonctions.php');
+    ?>
     <div class="inscript_page">
-    	<a href="../essaiInscription.php"> S'inscrire </a> <a href="#"> Connexion </a>
     </div>
     <br>
     <br>
-  <div class="row">
-  <div class="col-demi"> <p> </p> </div>
   
-    <iframe name="myframe" src="#" width="650" height="300" scrolling="yes">
-</iframe>
-
-    </div>
-<div class="row">
+  <div class="row">
 <div class="col-demi"> <p> </p> </div>
 
-<div class="col-4"> <p> Ce site a pour vocation de présenter régulièrement du contenu en lien avec les jeux videos, tests, articles, news et discussions </p> </div>
+<div class="col-4"> <p> <h3>Ce site a pour vocation de présenter régulièrement du contenu en lien avec les jeux videos, tests, articles, news et discussions</h3> </p> </div>
 </div>
+  <div class="row">
+  <div class="col-boxes"> <p> </p> </div>
+  <div class="col-3">
+  <h2> Discussion de la semaine : </h2>
+  </div>
+  </div>
+  <div class="row">
+  <div class="col-boxes"> <p> </p> </div>
+    <iframe name="myframe" src="http://localhost/Site_final/Pages_de_base/Discuss_de_Base.php" width="800" height="300" scrolling="yes">
+</iframe>
+
+    </div>  
 
   </div>
 </body>

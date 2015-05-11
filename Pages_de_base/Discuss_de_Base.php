@@ -45,17 +45,13 @@
 
 <body>
     <div class="row"> 
-    <div class="col-1">
-    <div class="content">
     
-    <p>some text...</p>
-    </div>
-    </div>
+    <!--
     <?php
-    include('../structure/menu.php'); ?>
+    include('../structure/menu.php'); ?>-->
     
     <?php
-    include('../structure/barre_tests.php');
+    /*include('../structure/barre_tests.php');*/
     include('../structure/fonctions.php');
     titrediscuss('Do you think obvious display of violence in Video games impact on the youth ?');
     ?>
